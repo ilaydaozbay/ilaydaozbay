@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## I'm İlayda 👋
+I am very interested in software test engineering and I am developing myself in this field.
 <!--
 **ilaydaozbay/ilaydaozbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
