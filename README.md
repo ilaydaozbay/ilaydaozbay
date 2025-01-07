@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" Width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilaydaozbay&label=Profile%20views&color=0e75b6&style=flat" alt="ilaydaozbay" /> </p>
 
-- 🌱 I’m currently learning **software testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
