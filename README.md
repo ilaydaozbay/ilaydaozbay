@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlayda</h1>
-<h3 align="center">A passionate software test engineer</h3>
+<h3 align="center">Software Test Engineer</h3>
 
 <img align="right" alt="Coding" Width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilaydaozbay&label=Profile%20views&color=0e75b6&style=flat" alt="ilaydaozbay" /> </p>
